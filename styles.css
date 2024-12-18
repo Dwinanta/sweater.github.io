@@ -121,7 +121,9 @@ nav ul li {
     margin-right: 10px;
     border-radius: 10px;
 }
-
+.product-description{
+    margin: 20px;
+}
 /* Footer */
 footer {
     background-color: #f8e6e1;
@@ -145,6 +147,7 @@ footer ul li a:hover {
 }
 /* Responsive for Tablets */
 @media screen and (max-width: 1024px) {
+    
     header {
         flex-direction: column;
         text-align: center;
